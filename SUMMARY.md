@@ -5,3 +5,4 @@
 * [Architecture](architecture.md)
 * [Smart Contracts](smart-contracts.md)
 * [Frontend](frontend.md)
+* [Glossary](glossary.md)
