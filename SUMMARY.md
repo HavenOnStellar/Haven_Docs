@@ -6,3 +6,4 @@
 * [Smart Contracts](smart-contracts.md)
 * [Frontend](frontend.md)
 * [Glossary](glossary.md)
+* [Roadmap](roadmap.md)
