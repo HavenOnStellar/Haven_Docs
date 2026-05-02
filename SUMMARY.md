@@ -9,3 +9,4 @@
 * [Roadmap](roadmap.md)
 
 ## Guides
+* [Registering a Device](guides/registering-a-device.md)
