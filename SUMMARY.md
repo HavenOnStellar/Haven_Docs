@@ -10,3 +10,4 @@
 
 ## Guides
 * [Registering a Device](guides/registering-a-device.md)
+* [Reporting a Stolen Device](guides/reporting-a-stolen-device.md)
