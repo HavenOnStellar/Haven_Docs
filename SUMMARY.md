@@ -14,3 +14,6 @@
 * [Confirming Recovery](guides/confirming-recovery.md)
 * [Insurance Claims](guides/insurance-claims.md)
 * [Vendor Verification](guides/vendor-verification.md)
+
+## Reference
+* [Contract Functions](reference/contract-functions.md)
