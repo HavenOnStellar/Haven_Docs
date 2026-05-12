@@ -17,3 +17,4 @@
 
 ## Reference
 * [Contract Functions](reference/contract-functions.md)
+* [Events](reference/events.md)
