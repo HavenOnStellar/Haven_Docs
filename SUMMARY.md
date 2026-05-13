@@ -18,3 +18,4 @@
 ## Reference
 * [Contract Functions](reference/contract-functions.md)
 * [Events](reference/events.md)
+* [Frontend Client](reference/frontend-client.md)
