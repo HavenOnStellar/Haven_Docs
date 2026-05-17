@@ -1,25 +1,28 @@
-# Table of contents
+# Summary
 
-* [Haven Protocol](README.md)
-* [Getting Started](getting-started.md)
-* [Architecture](architecture.md)
-* [Smart Contracts](smart-contracts.md)
-* [Frontend](frontend.md)
-* [Glossary](glossary.md)
-* [Roadmap](roadmap.md)
+- [Introduction](README.md)
+- [Getting Started](getting-started.md)
+- [System Architecture](architecture.md)
+- [Frontend](frontend.md)
+- [Smart Contracts](smart-contracts.md)
+- [Roadmap](roadmap.md)
+- [Glossary](glossary.md)
 
 ## Guides
-* [Registering a Device](guides/registering-a-device.md)
-* [Reporting a Stolen Device](guides/reporting-a-stolen-device.md)
-* [Confirming Recovery](guides/confirming-recovery.md)
-* [Insurance Claims](guides/insurance-claims.md)
-* [Vendor Verification](guides/vendor-verification.md)
+
+- [Registering a Device](guides/registering-a-device.md)
+- [Reporting a Stolen Device](guides/reporting-a-stolen-device.md)
+- [Confirming Recovery](guides/confirming-recovery.md)
+- [Vendor Verification](guides/vendor-verification.md)
+- [Insurance Claims](guides/insurance-claims.md)
 
 ## Reference
-* [Contract Functions](reference/contract-functions.md)
-* [Events](reference/events.md)
-* [Frontend Client](reference/frontend-client.md)
+
+- [Contract Functions](reference/contract-functions.md)
+- [Events](reference/events.md)
+- [Frontend Client](reference/frontend-client.md)
 
 ## Contributing
-* [Contributor Guide](contributing/contributor-guide.md)
-* [Development Workflow](contributing/development-workflow.md)
+
+- [Contributor Guide](contributing/contributor-guide.md)
+- [Development Workflow](contributing/development-workflow.md)
