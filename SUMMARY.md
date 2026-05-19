@@ -5,6 +5,11 @@
 - [System Architecture](architecture.md)
 - [Frontend](frontend.md)
 - [Smart Contracts](smart-contracts.md)
+
+## Protocol Design
+
+- [Bounty Economics](bounty-economics.md)
+
 - [Roadmap](roadmap.md)
 - [Glossary](glossary.md)
 
