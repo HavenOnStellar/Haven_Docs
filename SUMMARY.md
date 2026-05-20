@@ -8,6 +8,10 @@
 - [Roadmap](roadmap.md)
 - [Glossary](glossary.md)
 
+## Protocol Design
+
+- [Bounty Economics](protocol-design/bounty-economics.md)
+
 ## Guides
 
 - [Registering a Device](guides/registering-a-device.md)
