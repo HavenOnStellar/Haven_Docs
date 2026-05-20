@@ -3,6 +3,7 @@
 - [Introduction](README.md)
 - [Getting Started](getting-started.md)
 - [System Architecture](architecture.md)
+  - [Architecture Diagrams](architecture/system-diagrams.md)
 - [Frontend](frontend.md)
 - [Smart Contracts](smart-contracts.md)
 - [Roadmap](roadmap.md)
