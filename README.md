@@ -23,3 +23,7 @@ Haven lets a device owner register a privacy-preserving hash of their device IME
 ## Current status
 
 Haven is currently in an early open-source preparation phase. The smart contract contains the core registry, killswitch, recovery, and insurance flows. The frontend contains the landing page and a typed Stellar/Soroban client stub that will be expanded into dashboard and verification flows.
+
+## Documentation
+
+- [Bounty Economics](docs/bounty-economics.md) - How bounties align contributors, maintainers, and users.
